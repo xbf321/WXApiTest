@@ -1,0 +1,11 @@
+E:\project\WXApiTest\WX.Web.WWW\bin\WX.Web.WWW.dll
+E:\project\WXApiTest\WX.Web.WWW\bin\WX.Web.WWW.pdb
+E:\project\WXApiTest\WX.Web.WWW\obj\Debug\WX.Web.WWW.dll
+E:\project\WXApiTest\WX.Web.WWW\obj\Debug\WX.Web.WWW.pdb
+E:\project\WXApiTest\WX.Web.WWW\bin\WX.Core.dll
+E:\project\WXApiTest\WX.Web.WWW\bin\JCSoft.WX.Framework.dll
+E:\project\WXApiTest\WX.Web.WWW\bin\Newtonsoft.Json.dll
+E:\project\WXApiTest\WX.Web.WWW\bin\WX.Core.pdb
+E:\project\WXApiTest\WX.Web.WWW\bin\JCSoft.WX.Framework.pdb
+E:\project\WXApiTest\WX.Web.WWW\bin\Newtonsoft.Json.xml
+E:\project\WXApiTest\WX.Web.WWW\obj\Debug\WX.Web.WWW.csprojResolveAssemblyReference.cache
